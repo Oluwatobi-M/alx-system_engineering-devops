@@ -1,1 +1,1 @@
-second readme
+This script is to print working directory
